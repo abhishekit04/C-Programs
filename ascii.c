@@ -5,6 +5,5 @@ int main () {
     printf("enter a character\n");
     scanf("%c",&value);
     printf("%d", value);
-
     return 0;
 }
